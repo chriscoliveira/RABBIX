@@ -1,0 +1,2 @@
+
+Exibe os templates do zabbix
